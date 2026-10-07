@@ -1,0 +1,17 @@
+{
+  "num_leaves": 24,
+  "max_depth": 5,
+  "learning_rate": 0.025832729613126503,
+  "n_estimators": 950,
+  "min_child_samples": 168,
+  "feature_fraction": 0.6386999057405924,
+  "bagging_fraction": 0.4270280340719993,
+  "bagging_freq": 4,
+  "reg_alpha": 0.0014826385435596646,
+  "reg_lambda": 0.5480606961681793,
+  "scale_pos_weight": 223.3988606436954,
+  "ganancia_optuna_fold4": 377685000.0,
+  "auc_fold4": 0.8921,
+  "n_trials": 50,
+  "fecha": "2026-10-05T22:38:53.889985"
+}

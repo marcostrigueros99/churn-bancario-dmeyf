@@ -1,0 +1,22 @@
+{
+  "boosting_type": "dart",
+  "num_leaves": 89,
+  "max_depth": 12,
+  "learning_rate": 0.04426943727187795,
+  "n_estimators": 350,
+  "min_child_samples": 783,
+  "feature_fraction": 0.49357863922195355,
+  "min_split_gain": 0.2741744378153833,
+  "reg_alpha": 0.0010438739086749522,
+  "reg_lambda": 0.006398535378029163,
+  "bagging_fraction": 0.7578252067693453,
+  "bagging_freq": 6,
+  "usar_is_unbalance": false,
+  "n_meses_train": 3,
+  "scale_pos_weight": 590.1930329165169,
+  "drop_rate": 0.21958167622831165,
+  "skip_drop": 0.5147324663134726,
+  "ganancia_optuna_fold4": 430980000.0,
+  "n_trials_completados": 20,
+  "fecha": "2026-10-07T17:31:58.049199"
+}
