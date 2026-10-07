@@ -1,0 +1,23 @@
+# Dataset y archivos pesados (quedan en Drive)
+*.csv
+*.parquet
+*.zip
+*.gz
+
+# Submissions (quedan en Drive)
+submissions/
+submissions1/
+submissions2/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credenciales — NUNCA subir tokens ni contraseñas
+*.env
+secrets.json
