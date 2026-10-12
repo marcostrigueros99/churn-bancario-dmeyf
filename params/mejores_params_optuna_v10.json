@@ -1,0 +1,20 @@
+{
+  "boosting_type": "gbdt",
+  "num_leaves": 175,
+  "max_depth": 6,
+  "learning_rate": 0.05864129169696527,
+  "n_estimators": 500,
+  "min_child_samples": 46,
+  "feature_fraction": 0.9817507766587351,
+  "min_split_gain": 0.7751328233611146,
+  "reg_alpha": 2.854239907497756,
+  "reg_lambda": 1.1309571585271483,
+  "bagging_fraction": 0.7587399872866512,
+  "bagging_freq": 7,
+  "scale_pos_weight_m1": 39.5074298426744,
+  "scale_pos_weight_m2": 187.57615746608076,
+  "ganancia_fold4": 336297500.0,
+  "n_trials": 20,
+  "experimento": "v10_cascada",
+  "fecha": "2026-10-09T15:36:16.453557"
+}
